@@ -2,3 +2,37 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body{
+  background-color: lightblue;
+  text-align: center;
+}
+
+header {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 200%;
+  color: darkblue;
+}
+
+aside {
+  text-align: left;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: darkblue;
+}
+section{
+  text-align: right;
+  width: 80%;
+  color: darkblue;
+}
+
+article{
+  text-align: right;
+  width: 110%;
+  
+}
+
+img{
+  width: 50%;
+  height: 50%;
+}
+
